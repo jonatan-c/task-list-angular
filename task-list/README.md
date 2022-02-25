@@ -4,6 +4,9 @@ Proyecto frontend con Angular
 
 Comandas para ejecutar localmente :
 
-ng serve
+Para ejecutar el frontend :
 
-npm run server
+`ng serve`
+
+Para ejecutar un backend fake:
+`npm run server`
